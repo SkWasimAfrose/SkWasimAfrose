@@ -1,61 +1,91 @@
-<!-- 🌌 AI / FUTURISTIC HEADER -->
+<!-- 🌌 3D STYLE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f2e&height=220&section=header&text=SkWasimAfrose&fontSize=40&fontColor=00ffe1&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,100:00ffe1&height=240&section=header&text=SkWasimAfrose&fontSize=42&fontColor=00ffe1&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Wasim</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 🧠 AI Enthusiast | 🎨 UI/UX Explorer | ⚡ Builder of Digital Products
+Full Stack Web Developer | React & Node.js Developer | UI/UX Builder | Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;AI+%26+Automation+Explorer;MERN+Stack+Builder;Turning+Ideas+Into+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;React+%2B+Node.js+Developer;UI%2FUX+Focused+Engineer;Turning+Ideas+Into+Real+Products" />
 </p>
 
 ---
 
-## 🧠 About Me (AI Mindset Mode)
+## 👨‍💻 About Me
 
-- 🎓 BCA Student passionate about building scalable systems  
-- 💻 Full Stack Developer (Frontend + Backend + Databases)  
-- 🤖 Exploring AI tools, automation & modern web intelligence  
-- ⚙️ I love building real-world usable web apps  
-- 🎨 Obsessed with clean UI, smooth UX & minimal design systems  
-- 🚀 Currently leveling up in system design & backend architecture  
+- 🎓 BCA Student focused on software development and real-world applications  
+- 💻 Full Stack Developer building scalable and modern web apps  
+- ⚙️ Strong frontend skills with React + Next.js ecosystem  
+- 🧠 Backend development using Node.js + Firebase integration  
+- 🚀 Experience in building and deploying real projects  
+- 🎯 Passionate about clean UI, performance, and product thinking  
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-00ffe1?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-1f1f2e?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00ffe1?style=for-the-badge&logo=c&logoColor=black)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-0ff?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-00ffe1?style=for-the-badge&logo=css3&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-1f1f2e?style=for-the-badge&logo=tailwindcss&logoColor=00ffe1)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-00ffe1?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-00ffe1?style=for-the-badge&logo=mongodb&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-1f1f2e?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
-![GitHub](https://img.shields.io/badge/GitHub-00ffe1?style=for-the-badge&logo=github&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-1f1f2e?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-00ffe1?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=orange)
 
 ---
 
-## 📊 GitHub Intelligence Dashboard
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-00ffe1?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00ffe1?style=for-the-badge&logo=css3&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1f1f2e?style=for-the-badge&logo=tailwindcss&logoColor=00ffe1)
+
+---
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-00ffe1?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=orange)
+![Supabase](https://img.shields.io/badge/Supabase-00ffe1?style=for-the-badge&logo=supabase&logoColor=black)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-00ffe1?style=for-the-badge&logo=mongodb&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🧰 Tools & AI Platforms
+![Figma](https://img.shields.io/badge/Figma-1f1f2e?style=for-the-badge&logo=figma&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-black?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable_AI-00ffe1?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity_AI-1f1f2e?style=for-the-badge)
+
+---
+
+## 🤖 AI Developer Assistant (Demo)
+
+<p align="center">
+
+💬 **Visitor:** What do you do?  
+🤖 **WasimAI:** I build full-stack web applications using React, Next.js, Node.js, Firebase, and modern databases.
+
+---
+
+💬 **Visitor:** What kind of projects have you built?  
+🤖 **WasimAI:** I’ve built real-world deployed apps like OG UnitTrack and multiple UI-focused web applications.
+
+---
+
+💬 **Visitor:** Are you beginner or professional?  
+🤖 **WasimAI:** I am a developing full-stack engineer focused on real-world production-ready applications.
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SkWasimAfrose&show_icons=true&theme=tokyonight" height="180"/>
@@ -70,14 +100,14 @@
 
 ## 🚀 Featured Project
 
-### 🔥 OG Unitrack
+### 🔥 OG UnitTrack
 🌐 https://ogunitrack.vercel.app  
 
-> A modern web application designed for tracking and management with a clean UI and smooth experience.
+A modern full-stack web application focused on tracking and management with clean UI and responsive design.
 
 ---
 
-## 🌐 Neural Network (Connect With Me)
+## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/SkWasimAfrose  
 - 🌍 Portfolio: https://whoiswasim.vercel.app  
@@ -85,16 +115,21 @@
 
 ---
 
-## 🧬 AI Dev Philosophy
+## 📌 Recruiter Summary
 
-> "I don’t just write code — I design systems that think, scale, and evolve."
+- ✔ Frontend: React, Next.js, TailwindCSS  
+- ✔ Backend: Node.js, Firebase, Supabase  
+- ✔ Databases: MongoDB, MySQL  
+- ✔ UI/UX: Figma + modern design systems  
+- ✔ Real project experience with deployed apps  
+- ✔ Strong focus on practical full-stack development  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f2e,100:0f0f0f&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe1,100:0f0f0f&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  ⭐ If you like my work, feel free to follow me — more intelligent systems coming soon.
+⭐ Building real-world applications with clean design and strong architecture.
 </p>
